@@ -1,0 +1,37 @@
+{
+    "display": {
+      "icon": {
+        "item": "endofthenyte:the_nyte_music_disc"
+      },
+      "title": {
+        "translate": "advancements.endofthenyte.the_nyte_music_disc.title"
+      },
+      "description": {
+        "translate": "advancements.endofthenyte.the_nyte_music_disc.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "endofthenyte:the_nyte",
+    "criteria": {
+      "the_nyte_music_disc": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "endofthenyte:the_nyte_music_disc"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "the_nyte_music_disc"
+      ]
+    ]
+}  

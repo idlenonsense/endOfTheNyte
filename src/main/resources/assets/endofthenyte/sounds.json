@@ -1,0 +1,46 @@
+{
+    "endenyte_block_activated": {
+        "subtitle": "sounds.endofthenyte.endenyte_block_activated",
+        "sounds": [
+            "endofthenyte:endenyte_block_activated"
+        ]
+    },
+    "endenyte_block_fall": {
+        "subtitle": "sounds.endofthenyte.endenyte_block_fall",
+        "sounds": [
+            "endofthenyte:endenyte_block_fall"
+        ]
+    },
+    "endenyte_block_dig": {
+        "subtitle": "sounds.endofthenyte.endenyte_block_dig",
+        "sounds": [
+            "endofthenyte:endenyte_block_fall"
+        ]
+    },
+    "endenyte_block_hit": {
+        "subtitle": "sounds.endofthenyte.endenyte_block_hit",
+        "sounds": [
+            "endofthenyte:endenyte_block_hit"
+        ]
+    },
+    "endenyte_block_deactivated": {
+        "subtitle": "sounds.endofthenyte.endenyte_block_deactivated",
+        "sounds": [
+            "endofthenyte:endenyte_block_deactivated"
+        ]
+    },
+    "endenyte_block_placed": {
+        "subtitle": "sounds.endofthenyte.endenyte_block_placed",
+        "sounds": [
+            "endofthenyte:endenyte_block_placed"
+        ]
+    },
+    "the_nyte": {
+        "sounds": [
+            {
+                "name": "endofthenyte:the_nyte",
+                "stream": true
+            }
+        ]
+    }
+}

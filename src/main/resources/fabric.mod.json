@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "endofthenyte",
+	"version": "1.0.0",
+	"name": "End Of The Nyte",
+	"description": "The End used to be a wonderful place. What happened there? What is left of the former greatness and what can it give you? This is your story about The End of The Nyte.",
+	"authors": [
+		"IdleNonsense",
+		"ReneMueller (icon artist)"
+	],
+	"contact": {
+		"homepage": "https://www.youtube.com/channel/UCO3JecqRn3mcY72m2S4SkjQ",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/endofthenyte/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"org.endOfTheNyte.EndOfTheNyte"
+		],
+		"client": [
+			"org.endOfTheNyte.EndOfTheNyteClient"
+		]
+	},
+	"mixins": [
+		"endofthenyte.mixins.json"
+
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

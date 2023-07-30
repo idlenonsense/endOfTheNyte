@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+      "#": {
+        "item": "endofthenyte:dragon_egg_shell"
+      }
+    },
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "result": {
+      "item": "minecraft:dragon_egg"
+    }
+  }

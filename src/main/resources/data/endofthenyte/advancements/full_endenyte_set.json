@@ -1,0 +1,55 @@
+{
+    "display": {
+      "icon": {
+        "item": "endofthenyte:netherite_chestplate_with_endenyte_coating"
+      },
+      "title": {
+        "translate": "advancements.nether.endenyte_armor.title"
+      },
+      "description": {
+        "translate": "advancements.nether.endenyte_armor.description"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "endofthenyte:endenyte",
+    "criteria": {
+      "endenyte_armor": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "endofthenyte:netherite_helmet_with_endenyte_coating"
+              ]
+            },
+            {
+              "items": [
+                "endofthenyte:netherite_chestplate_with_endenyte_coating"
+              ]
+            },
+            {
+              "items": [
+                "endofthenyte:netherite_leggings_with_endenyte_coating"
+              ]
+            },
+            {
+              "items": [
+                "endofthenyte:netherite_boots_with_endenyte_coating"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "endenyte_armor"
+      ]
+    ],
+    "rewards": {
+      "experience": 200
+    }
+  }

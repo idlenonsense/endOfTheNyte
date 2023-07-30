@@ -1,0 +1,12 @@
+{
+    "asset_name": "endenyte",
+    "description": {
+      "color": "#8C4DD5",
+      "translate": "trim_material.endofthenyte.endenyte"
+    },
+    "ingredient": "endofthenyte:endenyte_dust",
+    "item_model_index": 1.1,
+    "override_armor_materials": {
+      "endenyte": "endenyte_darker"
+    }
+  }

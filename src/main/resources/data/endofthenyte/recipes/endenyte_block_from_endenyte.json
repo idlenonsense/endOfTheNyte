@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+      "E": {
+        "item": "endofthenyte:endenyte"
+      },
+      "D": {
+        "item": "endofthenyte:dragon_egg_shell"
+      }
+    },
+    "pattern": [
+      " E ",
+      "EDE",
+      " E "
+    ],
+    "result": {
+      "item": "endofthenyte:endenyte_block"
+    }
+  }

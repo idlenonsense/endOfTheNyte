@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:blaze_powder"
+  },
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "endofthenyte:endenyte"
+  },
+  "result": {
+    "item": "endofthenyte:netherite_chestplate_with_endenyte_coating"
+  }
+}

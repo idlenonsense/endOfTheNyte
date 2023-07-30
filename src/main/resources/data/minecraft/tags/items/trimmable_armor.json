@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "endofthenyte:netherite_helmet_with_endenyte_coating",
+        "endofthenyte:netherite_chestplate_with_endenyte_coating",
+        "endofthenyte:netherite_leggings_with_endenyte_coating",
+        "endofthenyte:netherite_boots_with_endenyte_coating"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "  B",
+        " BR",
+        "BPE"
+    ],
+    "key": {
+        "B": {
+            "item": "endofthenyte:endermite_ball"
+        },
+        "E": {
+            "item": "endofthenyte:endenyte_dust"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "P": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "endofthenyte:endenyte",
+        "count": 1
+    }
+}

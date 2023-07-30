@@ -1,0 +1,49 @@
+{
+    "item.endofthenyte.dragon_egg_shell": "Скорлупа яйца дракона",
+    "item.endofthenyte.endenyte": "Энденит",
+    "item.endofthenyte.endenyte_dust": "Энденитовая пыль",
+    "item.endofthenyte.endermite_ball": "Слизь эндермита",
+    "item.endofthenyte.netherite_helmet_with_endenyte_coating": "Незеритовый шлем с энденитовым покрытием",
+    "item.endofthenyte.netherite_chestplate_with_endenyte_coating": "Незеритовый нагрудник с энденитовым покрытием",
+    "item.endofthenyte.netherite_leggings_with_endenyte_coating": "Незеритовые поножи с энденитовым покрытием",
+    "item.endofthenyte.netherite_boots_with_endenyte_coating": "Незеритовые ботинки с энденитовым покрытием",
+    "item.endofthenyte.the_nyte_music_disc": "Пластинка",
+    "item.endofthenyte.the_nyte_music_disc.desc": "IdleNonsense - The Nyte",
+
+    "trim_material.endofthenyte.endenyte": "Энденитовая",
+
+    "sounds.endofthenyte.endenyte_block_activated": "Блок энденита активирован",
+    "sounds.endofthenyte.endenyte_block_deactivated": "Блок энденита отключен",
+    "sounds.endofthenyte.endenyte_block_fall": "Скольжение по блоку энденита",
+    "sounds.endofthenyte.endenyte_block_dig": "Сломан блок",
+    "sounds.endofthenyte.endenyte_block_hit": "Стук по блоку",
+    "sounds.endofthenyte.endenyte_block_placed": "Блок размещён",
+
+    "advancements.endofthenyte.endermite_ball.title": "Возьмите тогда глаза мои...",
+    "advancements.endofthenyte.endermite_ball.description": "Закончите мучения эндермена",
+    "advancements.endofthenyte.endenyte_dust.title": "Ты меня не ищи",
+    "advancements.endofthenyte.endenyte_dust.description": "Получите энденитовую пыль",
+    "advancements.endofthenyte.dragon_egg_shell.title": "Ой...",
+    "advancements.endofthenyte.dragon_egg_shell.description": "Разбейте яйцо дракона",
+    "advancements.endofthenyte.call_of_the_end_effect.title": "Свой среди чужих",
+    "advancements.endofthenyte.call_of_the_end_effect.description": "Вкусите проклятие эндермена",
+    "advancements.endofthenyte.dragons_blessing_effect.title": "И с утёса вниз...",
+    "advancements.endofthenyte.dragons_blessing_effect.description": "...парень полетел!",
+    "advancements.endofthenyte.endenyte.title": "Всего лишь отражение",
+    "advancements.endofthenyte.endenyte.description": "Получите энденит",
+    "advancements.nether.endenyte_armor.title": "Мы будем драться до конца",
+    "advancements.nether.endenyte_armor.description": "Получите полный комплект брони с энденитовым покрытием",
+    "advancements.endofthenyte.the_nyte_music_disc.title": "Мы вернёмся домой",
+    "advancements.endofthenyte.the_nyte_music_disc.description": "Найдите наследие Нита",
+    "advancements.endofthenyte.thenyte.title": "Потерянный рай",
+    "advancements.endofthenyte.thenyte.description": "Посетите... Нит?",
+
+    "block.endofthenyte.endenyte_ore": "Энденитовая руда",
+    "block.endofthenyte.endenyte_block": "Блок энденита",
+
+    "effect.endofthenyte.call_of_the_end": "Мольбы Края",
+    "effect.endofthenyte.dragons_blessing": "Благославение дракона",
+    "effect.endofthenyte.soft_tread": "Мягкая поступь",
+
+    "itemgroup.eotn": "End Of The Nyte"
+}

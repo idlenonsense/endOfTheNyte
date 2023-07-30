@@ -1,0 +1,37 @@
+{
+    "display": {
+      "icon": {
+        "item": "endofthenyte:dragon_egg_shell"
+      },
+      "title": {
+        "translate": "advancements.endofthenyte.dragon_egg_shell.title"
+      },
+      "description": {
+        "translate": "advancements.endofthenyte.dragon_egg_shell.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "endofthenyte:the_nyte",
+    "criteria": {
+      "dragon_egg_shell": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "endofthenyte:dragon_egg_shell"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "dragon_egg_shell"
+      ]
+    ]
+}  

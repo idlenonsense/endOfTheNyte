@@ -1,0 +1,31 @@
+{
+    "display": {
+      "icon": {
+        "item": "endofthenyte:endenyte_ore"
+      },
+      "title": {
+        "translate": "advancements.endofthenyte.thenyte.title"
+      },
+      "description": {
+        "translate": "advancements.endofthenyte.thenyte.description"
+      },
+      "background": "endofthenyte:textures/block/endenyte_block_inside.png",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "entered_end": {
+        "trigger": "minecraft:changed_dimension",
+        "conditions": {
+          "to": "minecraft:the_end"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "entered_end"
+      ]
+    ]
+  }

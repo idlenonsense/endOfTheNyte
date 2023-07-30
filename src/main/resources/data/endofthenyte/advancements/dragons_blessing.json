@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "endofthenyte:endenyte_block"
+      },
+      "title": {
+        "translate": "advancements.endofthenyte.dragons_blessing_effect.title"
+      },
+      "description": {
+        "translate": "advancements.endofthenyte.dragons_blessing_effect.description"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "endofthenyte:endenyte",
+    "criteria": {
+      "dragons_blessing_effect": {
+        "trigger": "minecraft:effects_changed",
+        "conditions": {
+          "effects": {
+            "endofthenyte:dragons_blessing" : {}
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "dragons_blessing_effect"
+      ]
+    ]
+  }

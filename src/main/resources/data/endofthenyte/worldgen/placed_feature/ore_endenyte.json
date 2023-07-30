@@ -1,0 +1,27 @@
+{
+  "feature": "endofthenyte:ore_endenyte",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 48
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 56
+        },
+        "max_inclusive": {
+          "absolute": 480
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

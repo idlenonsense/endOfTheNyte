@@ -1,0 +1,49 @@
+{
+    "item.endofthenyte.dragon_egg_shell": "Dragon Egg Shell",
+    "item.endofthenyte.endenyte": "Endenyte",
+    "item.endofthenyte.endenyte_dust": "Endenyte Dust",
+    "item.endofthenyte.endermite_ball": "Endermite Ball",
+    "item.endofthenyte.netherite_helmet_with_endenyte_coating": "Netherite Helmet With Endenyte Coating",
+    "item.endofthenyte.netherite_chestplate_with_endenyte_coating": "Netherite Chestplate With Endenyte Coating",
+    "item.endofthenyte.netherite_leggings_with_endenyte_coating": "Netherite Leggings With Endenyte Coating",
+    "item.endofthenyte.netherite_boots_with_endenyte_coating": "Netherite Boots With Endenyte Coating",
+    "item.endofthenyte.the_nyte_music_disc": "Music Disc",
+    "item.endofthenyte.the_nyte_music_disc.desc": "IdleNonsense - The Nyte",
+
+    "trim_material.endofthenyte.endenyte": "Endenyte Material",
+
+    "sounds.endofthenyte.endenyte_block_activated": "Endenyte block activated",
+    "sounds.endofthenyte.endenyte_block_deactivated": "Endenyte block deactivated",
+    "sounds.endofthenyte.endenyte_block_fall": "Sliding on the tndenyte tlock",
+    "sounds.endofthenyte.endenyte_block_dig": "Block broken",
+    "sounds.endofthenyte.endenyte_block_hit": "Block breaking",
+    "sounds.endofthenyte.endenyte_block_placed": "Block placed",
+
+    "advancements.endofthenyte.endermite_ball.title": "Then take my eyes...",
+    "advancements.endofthenyte.endermite_ball.description": "End the Enderman's torment",
+    "advancements.endofthenyte.endenyte_dust.title": "Don't look for me",
+    "advancements.endofthenyte.endenyte_dust.description": "Get endenyte dust",
+    "advancements.endofthenyte.dragon_egg_shell.title": "Oops...",
+    "advancements.endofthenyte.dragon_egg_shell.description": "Break the dragon egg",
+    "advancements.endofthenyte.call_of_the_end_effect.title": "A friend among strangers",
+    "advancements.endofthenyte.call_of_the_end_effect.description": "Taste the Enderman's curse",
+    "advancements.endofthenyte.dragons_blessing_effect.title": "...down the cliff!",
+    "advancements.endofthenyte.dragons_blessing_effect.description": "And the guy flew...",
+    "advancements.endofthenyte.endenyte.title": "Just a reflection",
+    "advancements.endofthenyte.endenyte.description": "Get endenyte",
+    "advancements.nether.endenyte_armor.title": "We will fight to the end",
+    "advancements.nether.endenyte_armor.description": "Get a full set of armor with an endenyte coating",
+    "advancements.endofthenyte.the_nyte_music_disc.title": "We will come back home",
+    "advancements.endofthenyte.the_nyte_music_disc.description": "Find Nyte's Legacy",
+    "advancements.endofthenyte.thenyte.title": "Lost Paradise",
+    "advancements.endofthenyte.thenyte.description": "Visit... Nyte?",
+
+    "block.endofthenyte.endenyte_ore": "Endenyte Ore",
+    "block.endofthenyte.endenyte_block": "Block of Endenyte",
+
+    "effect.endofthenyte.call_of_the_end": "Call of The End",
+    "effect.endofthenyte.dragons_blessing": "Dragon's Blessing",
+    "effect.endofthenyte.soft_tread": "Soft Tread",
+
+    "itemgroup.eotn": "End Of The Nyte"
+}

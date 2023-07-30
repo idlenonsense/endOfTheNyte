@@ -1,0 +1,31 @@
+{   "parent": "block/block",
+    "textures": {
+        "particle": "endofthenyte:block/endenyte_block",
+        "texture": "endofthenyte:block/endenyte_block",
+        "inside": "endofthenyte:block/endenyte_block_inside"
+    },
+    "elements": [
+        {   "from": [ 4, 4, 4 ],
+            "to": [ 12, 12, 12 ],
+            "faces": {
+                "down":  { "uv": [ 4, 4, 12, 12 ], "texture": "#inside" },
+                "up":    { "uv": [ 4, 4, 12, 12 ], "texture": "#inside" },
+                "north": { "uv": [ 4, 4, 12, 12 ], "texture": "#inside" },
+                "south": { "uv": [ 4, 4, 12, 12 ], "texture": "#inside" },
+                "west":  { "uv": [ 4, 4, 12, 12 ], "texture": "#inside" },
+                "east":  { "uv": [ 4, 4, 12, 12 ], "texture": "#inside" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "down" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "south" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "east" }
+            }
+        }
+    ]
+}
