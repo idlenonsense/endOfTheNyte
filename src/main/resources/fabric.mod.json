@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "endofthenyte",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "End Of The Nyte",
 	"description": "The End used to be a wonderful place. What happened there? What is left of the former greatness and what can it give you? This is your story about The End of The Nyte.",
 	"authors": [
@@ -10,7 +10,7 @@
 	],
 	"contact": {
 		"homepage": "https://www.youtube.com/channel/UCO3JecqRn3mcY72m2S4SkjQ",
-		"sources": ""
+		"sources": "https://github.com/idlenonsense/endOfTheNyte"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/endofthenyte/icon.png",
